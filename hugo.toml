@@ -40,9 +40,9 @@ hideMadeWithLine = false
 hideRSSLink = true
 
 [params.author]
-name = "Shaolong Chen"
+name = "commonground"
 email = "shaolong.chen@outlook.it"
-fediverse = "@chensl@mastodon.social"
+
 
 [[menu.main]]
 name = "Home"
@@ -51,12 +51,12 @@ weight = 10
 
 [[menu.main]]
 name = "Friday"
-pageRef = "/content"
+pageRef = "/friday"
 weight = 20
 
 [[menu.main]]
 name = "Panels"
-pageRef = "/panels"
+pageRef = "/saturday"
 weight = 20
 
 

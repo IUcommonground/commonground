@@ -6,14 +6,14 @@
     <description>Recent content on Common Ground 2025</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>shaolong.chen@outlook.it (Shaolong Chen)</managingEditor>
-    <webMaster>shaolong.chen@outlook.it (Shaolong Chen)</webMaster>
+    <managingEditor>shaolong.chen@outlook.it (commonground)</managingEditor>
+    <webMaster>shaolong.chen@outlook.it (commonground)</webMaster>
     <lastBuildDate>Sun, 16 Feb 2025 17:05:22 -0500</lastBuildDate>
     <atom:link href="https://iucommonground.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>https://iucommonground.github.io/friday/</link>
-      <pubDate>Sun, 16 Feb 2025 17:05:22 -0500</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Sun, 16 Feb 2025 17:05:22 -0500</pubDate><author>shaolong.chen@outlook.it (commonground)</author>
       <guid>https://iucommonground.github.io/friday/</guid>
       <description>Hello commonground</description>
       <content:encoded><![CDATA[<p>Hello <strong>commonground</strong></p>
@@ -22,7 +22,7 @@
     <item>
       <title>og-image</title>
       <link>https://iucommonground.github.io/panels/og-image/</link>
-      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Wed, 08 May 2024 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (commonground)</author>
       <guid>https://iucommonground.github.io/panels/og-image/</guid>
       <description> https://github.com/gohugoio/hugo/blob/c46d603a027a715db604d39f7a2e68a157ef0001/docs/_vendor/github.com/gohugoio/gohugoioTheme/layouts/partials/opengraph/opengraph.html
 1. 2├── _index.md 3└── blog 4 ├── _index.md 5 ├── emoji-support.md 6 ├── markdown-syntax.md 7 ├── math-typesetting.md 8 ├── og-image 9 │ ├── index.md 10 │ └── kateryna-ivanova-etgAEeMw2wc-unsplash.jpg 11 ├── placeholder-text.md 12 └── rich-content.md Page params:
@@ -78,7 +78,7 @@
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://iucommonground.github.io/panels/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (commonground)</author>
       <guid>https://iucommonground.github.io/panels/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.</p>
@@ -238,7 +238,7 @@
     <item>
       <title>Rich Content</title>
       <link>https://iucommonground.github.io/panels/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (commonground)</author>
       <guid>https://iucommonground.github.io/panels/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Hugo ships with several <a href="https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes">Built-in Shortcodes</a> for rich content, along with a <a href="https://gohugo.io/about/hugo-and-gdpr/">Privacy Config</a> and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.</p>
@@ -298,7 +298,7 @@
     <item>
       <title>Placeholder Text</title>
       <link>https://iucommonground.github.io/panels/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (commonground)</author>
       <guid>https://iucommonground.github.io/panels/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Lorem est tota propiore conpellat pectoribus de pectora summo.</p>
@@ -328,7 +328,7 @@
     <item>
       <title>Math Typesetting</title>
       <link>https://iucommonground.github.io/panels/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (commonground)</author>
       <guid>https://iucommonground.github.io/panels/math-typesetting/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.</p>
@@ -363,7 +363,7 @@ $$</p>]]></content:encoded>
     <item>
       <title>Emoji Support</title>
       <link>https://iucommonground.github.io/panels/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (Shaolong Chen)</author>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (commonground)</author>
       <guid>https://iucommonground.github.io/panels/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Emoji can be enabled in a Hugo project in a number of ways.</p>
@@ -383,6 +383,78 @@ $$</p>]]></content:encoded>
   <div class="highlight"><pre tabindex="0" style="color:#cdd6f4;background-color:#1e1e2e;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-html" data-lang="html"><span style="display:flex;"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f849c">1</span><span>.emoji {
 </span></span><span style="display:flex;"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f849c">2</span><span>  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
 </span></span><span style="display:flex;"><span style="white-space:pre;-webkit-user-select:none;user-select:none;margin-right:0.4em;padding:0 0.4em 0 0.4em;color:#7f849c">3</span><span>}</span></span></code></pre></div>]]></content:encoded>
+    </item>
+    <item>
+      <title></title>
+      <link>https://iucommonground.github.io/saturday/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>shaolong.chen@outlook.it (commonground)</author>
+      <guid>https://iucommonground.github.io/saturday/</guid>
+      <description>Panel Location: Franklin Hall,
+Panel 1 - Media Meets Geography Anna Stamm Staying Afloat: TV Station Marketing Strategies (Indiana University, Media School) Drew H. Using GIS to Stretch Archival Collections: A Case Study from Colorado (Indiana University, Bloomington) Feng Yi Yin	Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television (Temple University) Abu Mohammad Sakil Faizullah Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins (Univerity of Georgia, Atlanta) Panel 2- Media Practices &amp;amp; Praxis Ran Wei *The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media (Washington University in St.</description>
+      <content:encoded><![CDATA[<p>Panel Location: Franklin Hall,</p>
+<h2 id="panel-1---media-meets-geography">Panel 1 - Media Meets Geography</h2>
+<ul>
+<li><strong>Anna Stamm</strong>  <em>Staying Afloat: TV Station Marketing Strategies</em> (Indiana University, Media School)</li>
+<li><strong>Drew H.</strong>   <em>Using GIS to Stretch Archival Collections: A Case Study from Colorado</em> (Indiana University, Bloomington)</li>
+<li><strong>Feng Yi Yin</strong>	 <em>Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television</em> (Temple University)</li>
+<li><strong>Abu Mohammad Sakil Faizullah</strong> <em>Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins</em> (Univerity of Georgia, Atlanta)
+ </li>
+</ul>
+<h2 id="panel-2--media-practices--praxis">Panel 2- Media Practices &amp; Praxis</h2>
+<ul>
+<li><strong>Ran Wei</strong> *The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media (Washington University in St. Louis)</li>
+<li><strong>Jenna Sears</strong> <em>Digital Creative Geographies: Intercultural Filmmaking as Affective Placemaking</em> (Indiana University)</li>
+<li><strong>Julia longo</strong>	 <em>Journalistic documentaries as an emancipatory practice for adolescents: dialogues between communicative citizenship and media literacy</em> (Temple University)</li>
+<li><strong>Narmeen Ijaz</strong> * Ethics in Feminist Documentary: Implications of Class and Privilege in Sharmeen Obaid-Chinoy’s Films* (Indiana University, Media School)</li>
+</ul>
+<p> </p>
+<h2 id="panel-3--black-media-experiences">Panel 3- Black Media Experiences</h2>
+<ul>
+<li><strong>Marilyn Facey</strong> <em>New Media and Cultural Production: An examination of new media technologies on news and music production culture in Jamaica</em> (University of Illinois, Chicago)</li>
+<li><strong>Kristin Wells</strong>  <em>Mediated Histories of Collegiate Sporting Protests: A Digital Humanities Approach</em> (Indiana University, Bloomington)</li>
+<li><strong>Fabiola D&rsquo;Angelo</strong>	 <strong>Lovers Rock and The Black Sensorium</strong> (Indiana University)</li>
+<li><strong>Omoleye Adeyemi</strong>	<em>The Shade Room—A Digital Third Space for Black Individuals</em> (Univeristy of Maryland College Park)
+ </li>
+</ul>
+<h2 id="panel-4--structuring-environmental-feelings">Panel 4- Structuring Environmental Feelings</h2>
+<ul>
+<li><strong>Juntao Yang</strong>  <em>Fault Lines and Echoing Strata: Attunement and Unsecurement through East Asia’s Earthquake-Media</em> (Columbia University)</li>
+<li><strong>Stas</strong>  <em>Staging Apocalypse: Chornobyl Cinema, Environmental Protest, and Eschatological Melodrama</em> (Indiana University, Bloomington)</li>
+<li><strong>Priscilla Boateng</strong>  <em>Navigating Motherhood and Mental Health in Ghana: A Critical Discourse Analysis of Postpartum Depression on Facebook</em> (Indiana University)</li>
+<li><strong>Shitemi Khamadi</strong> <em>Media Representation of Indigenous Communities in Environmental Court Cases: A Feminist Critical Discourse Analysis of Landmark Judgments in Africa</em> (Indiana University, Bloomington)
+ </li>
+</ul>
+<h2 id="panel-5--fan-power">Panel 5- Fan Power</h2>
+<ul>
+<li><strong>Juntong Wu</strong> <em>Mediating Film Festival in Post-Pandemic China: Cinephiles and Grassroots Media</em> (?)</li>
+<li><strong>Selena Cotte</strong> <em>Video essays and fan historians as alternative academics: Considering Defunctland and other theme park studies.</em> (University of Illinois, Chicago)</li>
+<li><strong>Aditya Sahasrabudhe</strong> <em>Investigating fan aggression as a reaction to mediated crowd behavior</em> (Indiana University, Bloomington)
+ </li>
+</ul>
+<h2 id="panel-6--rendering-media-visions">Panel 6- Rendering Media Visions</h2>
+<ul>
+<li><strong>Aileen Min</strong> <em>Digital Water and Generative Absence: Reimagining East Asian Aesthetics in Digital Art</em> (Columbia University)</li>
+<li><strong>Ibrahim Odugbemi</strong> <em>Global South Cinemas in the Face of Neoliberal Capitalism: The Examples of Nigeria and South Korea</em> (Indiana University, Bloomington)</li>
+<li><strong>Aanila	A</strong> (<em>Reassessment of the Aura: Analyzing the Categories of AI-generated Images in Facebook&rsquo;s Algorithmic Landscape</em> Indiana University)</li>
+<li><strong>Janice Day</strong> <em>Re-visioning the Undefinable: A Generative Rhetorical Analysis of Trauma Narratives in Horror Films</em> (Indiana University, Indianapolis)
+ </li>
+</ul>
+<h2 id="panel-7--heremeneutics">Panel 7- Heremeneutics</h2>
+<ul>
+<li><strong>Christopher Michael Hansen</strong>  <em>Conjuring Seth: On Posthuman Creative Practice in The Seth Material</em>  (University of Buffalo)</li>
+<li><strong>Ahmed Tahsin Shams</strong> <em>Thijs Biersteker’s Screen Eco-Art as Green Publishing Prototype in the Anthropocene</em>  (Indiana University, Bloomington)</li>
+<li><strong>SaeHim Park</strong> <em>Boredom and Annoyance in Film The Pregnant Tree and the Goblin</em> (Xavier University of Louisiana)</li>
+<li><strong>Sohrab Mirab</strong>  <em>History, Allegory, and Poetics of Dissent: Pre-Revolutionary Iranian Avant-grade Animations of CIDCA</em>  (Indiana University, Bloomington)
+ </li>
+</ul>
+<h2 id="panel-8--interrogating-power-narratives">Panel 8- Interrogating Power Narratives</h2>
+<ul>
+<li><strong>Cole Nelson and Jamie Theophilos</strong>	<em>Countering Repression and narrative architects in the Stop Cop City Movement</em> (Indiana University, Bloomington)</li>
+<li><strong>Jeff Moscaritolo</strong> <em>The Cooley Report, Orientalist Knowledge-Making, and Dunn Meadow</em> (Indiana University, Bloomington)</li>
+<li><strong>Bryce Greene</strong>	<em>Revisiting Media Imperialism: The Enduring Relevance Of The Propaganda Model</em> (Indiana University, Bloomington)</li>
+<li><strong>Caro Reed-Ferrara</strong>	<em>And You’re Going to Kill Him for Me”: Neoliberal Feminism and Hegemony in American National Security Media</em> (Indiana University, Bloomington)</li>
+</ul>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
