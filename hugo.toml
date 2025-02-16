@@ -38,6 +38,7 @@ favicon = "images/favicon.png"
 dateFormat = "2006-01-02"
 hideMadeWithLine = false
 hideRSSLink = true
+customCSS = "css/custom.css"
 
 [params.author]
 name = "commonground"
