@@ -55,7 +55,7 @@ pageRef = "/friday"
 weight = 20
 
 [[menu.main]]
-name = "Panels"
+name = "Saturday"
 pageRef = "/saturday"
 weight = 20
 
