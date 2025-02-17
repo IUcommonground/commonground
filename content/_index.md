@@ -1,7 +1,7 @@
 ---
-title: Common Ground Conference 2025
+title: Common Ground 2025
 ---
-**Common Ground Conference** is an interdisciplinary conference broadly centered on media and communication studies hosted by the graduate department at Indiana University Bloomington Media School. This conference aims to bring together and showcase emerging scholarly and creative voices, as well as explore diverse viewpoints, methodologies, and critical approaches within the field.This year, the conference will feature keynote speakers *Cory Doctorow* and *Ramon Resendiz.* Our theme is *Media Studies in/at/from the Margins.*
+**The Common Ground Conference** is an interdisciplinary conference broadly centered on media and communication studies hosted by the graduate department at Indiana University Bloomington Media School. This conference aims to bring together and showcase emerging scholarly and creative voices, as well as explore diverse viewpoints, methodologies, and critical approaches within the field.This year, the conference will feature keynote speakers *Cory Doctorow* and *Ramon Resendiz.* Our theme is *Media Studies in/at/from the Margins.*
 
 Keynote Speakers and Panels will be held in [Franklin Hall](https://mediaschool.indiana.edu/about/facilities/franklin-hall/index.html) (601 E Kirkwood Ave)
 
