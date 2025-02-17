@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://iucommonground.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-16T17:05:22-05:00</lastmod>
   </url><url>
-    <loc>https://iucommonground.github.io/friday/</loc>
+    <loc>http://localhost:1313/friday/</loc>
     <lastmod>2025-02-16T17:05:22-05:00</lastmod>
   </url><url>
-    <loc>https://iucommonground.github.io/screenings/</loc>
+    <loc>http://localhost:1313/screenings/</loc>
   </url><url>
-    <loc>https://iucommonground.github.io/saturday/</loc>
+    <loc>http://localhost:1313/saturday/</loc>
   </url>
 </urlset>

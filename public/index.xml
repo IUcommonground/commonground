@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Common Ground 2025</title>
-    <link>https://iucommonground.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Common Ground 2025</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>commonground@gmail.com (commonground)</managingEditor>
     <webMaster>commonground@gmail.com (commonground)</webMaster>
     <lastBuildDate>Sun, 16 Feb 2025 17:05:22 -0500</lastBuildDate>
-    <atom:link href="https://iucommonground.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keynote Speakers</title>
-      <link>https://iucommonground.github.io/friday/</link>
+      <link>http://localhost:1313/friday/</link>
       <pubDate>Sun, 16 Feb 2025 17:05:22 -0500</pubDate><author>commonground@gmail.com (commonground)</author>
-      <guid>https://iucommonground.github.io/friday/</guid>
+      <guid>http://localhost:1313/friday/</guid>
       <description>Ramon Rescindez 1:30pm Location: Franklin Hall, Room 310
 Dr. Ramón Resendiz is a Chicanx documentary filmmaker and media anthropologist from the south Texas, U.S.-Mexico borderlands. He is a Postdoctoral Fellow at the Center for Research on Race and Ethnicity in Society and a Visiting Assistant Professor in the Media School at Indiana University. His research interrogates the material and imaginary intersections of national borders, memory, visual culture, systemic violence, and settler colonialism</description>
       <content:encoded><![CDATA[<h2 id="ramon-rescindez">Ramon Rescindez</h2>
@@ -32,18 +32,18 @@ Dr. Ramón Resendiz is a Chicanx documentary filmmaker and media anthropologist 
     </item>
     <item>
       <title>Common Ground 2025</title>
-      <link>https://iucommonground.github.io/screenings/</link>
+      <link>http://localhost:1313/screenings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>commonground@gmail.com (commonground)</author>
-      <guid>https://iucommonground.github.io/screenings/</guid>
+      <guid>http://localhost:1313/screenings/</guid>
       <description>this will be the film screening list</description>
       <content:encoded><![CDATA[<p>this will be the film screening list</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Saturday Panels</title>
-      <link>https://iucommonground.github.io/saturday/</link>
+      <link>http://localhost:1313/saturday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>commonground@gmail.com (commonground)</author>
-      <guid>https://iucommonground.github.io/saturday/</guid>
+      <guid>http://localhost:1313/saturday/</guid>
       <description>Panel 1 - Media Meets Geography 9am FH 310 Anna Stamm Staying Afloat: TV Station Marketing Strategies &amp;mdash; (Indiana University, Bloomington) Drew H. Using GIS to Stretch Archival Collections: A Case Study from Colorado &amp;mdash; (Indiana University, Bloomington) Feng Yi Yin	Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television &amp;mdash; (Temple University) Abu Mohammad Sakil Faizullah Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins &amp;mdash; (Univerity of Georgia, Atlanta) Panel 2- Media Practices &amp;amp; Praxis 9am FH 210 Ran Wei The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media &amp;mdash; (Washington University in St.</description>
       <content:encoded><![CDATA[<h3 id="panel-1---media-meets-geography">Panel 1 - Media Meets Geography</h3>
 <h4 id="9am-fh-310">9am FH 310</h4>
