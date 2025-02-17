@@ -7,7 +7,7 @@ draft: false
 
 ### Panel 1 - Media Meets Geography ###
 
-#### 9am-10am FH 310 ####
+#### 9am FH 310 ####
 
 - **Anna Stamm**  *Staying Afloat: TV Station Marketing Strategies* ---
 (Indiana University, Bloomington)
@@ -20,7 +20,7 @@ draft: false
  &nbsp;
 
 ### Panel 2- Media Practices & Praxis ###
-#### 9am-10am FH 210 ####
+#### 9am FH 210 ####
 
 
 - **Ran Wei** *The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media* ---
@@ -33,7 +33,7 @@ draft: false
  &nbsp;
 
 ### Panel 3- Black Media Experiences ###
-#### 11:30-1pm FH 310 ####
+#### 11:30am FH 310 ####
 
 - **Marilyn Facey** *New Media and Cultural Production: An examination of new media technologies on news and music production culture in Jamaica* (University of Illinois, Chicago)
 - **Kristin Wells**  *Mediated Histories of Collegiate Sporting Protests: A Digital Humanities Approach* (Indiana University, Bloomington)
@@ -42,7 +42,7 @@ draft: false
  &nbsp;
 
 ### Panel 4- Structuring Environmental Feelings ###
-#### 11:30-1pm FH 210 ####
+#### 11:30am FH 210 ####
 
 - **Juntao Yang**  *Fault Lines and Echoing Strata: Attunement and Unsecurement through East Asia’s Earthquake-Media* --- (Columbia University)
 - **Stas**  *Staging Apocalypse: Chornobyl Cinema, Environmental Protest, and Eschatological Melodrama* --- (Indiana University, Bloomington)
@@ -51,12 +51,16 @@ draft: false
 &nbsp;
 
 ### Panel 5- Fan Power ###
+#### 3:15pm FH 310 ####
+
 - **Juntong Wu** *Mediating Film Festival in Post-Pandemic China: Cinephiles and Grassroots Media* (?)
 - **Selena Cotte** *Video essays and fan historians as alternative academics: Considering Defunctland and other theme park studies.* (University of Illinois, Chicago)
 - **Aditya Sahasrabudhe** *Investigating fan aggression as a reaction to mediated crowd behavior* (Indiana University, Bloomington)
 &nbsp;
 
 ### Panel 6- Rendering Media Visions ###
+#### 3:15pm FH 210 ####
+
 - **Aileen Min** *Digital Water and Generative Absence: Reimagining East Asian Aesthetics in Digital Art* (Columbia University)
 - **Ibrahim Odugbemi** *Global South Cinemas in the Face of Neoliberal Capitalism: The Examples of Nigeria and South Korea* (Indiana University, Bloomington)
 - **Aanila	A** (*Reassessment of the Aura: Analyzing the Categories of AI-generated Images in Facebook's Algorithmic Landscape* Indiana University)
@@ -64,6 +68,8 @@ draft: false
 &nbsp;
 
 ### Panel 7- Heremeneutics ###
+#### 4:30pm FH 310 ####
+
 - **Christopher Michael Hansen**  *Conjuring Seth: On Posthuman Creative Practice in The Seth Material*  (University of Buffalo)
 - **Ahmed Tahsin Shams** *Thijs Biersteker’s Screen Eco-Art as Green Publishing Prototype in the Anthropocene*  (Indiana University, Bloomington)
 - **SaeHim Park** *Boredom and Annoyance in Film The Pregnant Tree and the Goblin* (Xavier University of Louisiana)
@@ -71,6 +77,8 @@ draft: false
  &nbsp;
 
 ### Panel 8- Interrogating Power Narratives ###
+#### 4:30pm FH 210 ####
+
 - **Cole Nelson and Jamie Theophilos**	*Countering Repression and narrative architects in the Stop Cop City Movement* (Indiana University, Bloomington)
 - **Jeff Moscaritolo** *The Cooley Report, Orientalist Knowledge-Making, and Dunn Meadow* (Indiana University, Bloomington)
 - **Bryce Greene**	*Revisiting Media Imperialism: The Enduring Relevance Of The Propaganda Model* (Indiana University, Bloomington)

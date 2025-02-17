@@ -8,6 +8,7 @@ p {
   color: black
 }
 
+
 h2 {
   color: grey;
 }
@@ -35,6 +36,11 @@ b, strong {
 a:visited {
   color: grey;
 }
+
+div {
+  text-align: center;
+}
+
 
 
 a:active {
