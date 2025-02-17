@@ -2,26 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Common Ground 2025</title>
-    <link>http://localhost:1313/</link>
+    <link>https://iucommonground.github.io/</link>
     <description>Recent content on Common Ground 2025</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>commonground@gmail.com (commonground)</managingEditor>
     <webMaster>commonground@gmail.com (commonground)</webMaster>
     <lastBuildDate>Sun, 16 Feb 2025 17:05:22 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://iucommonground.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Keynote Speakers</title>
-      <link>http://localhost:1313/friday/</link>
+      <link>https://iucommonground.github.io/friday/</link>
       <pubDate>Sun, 16 Feb 2025 17:05:22 -0500</pubDate><author>commonground@gmail.com (commonground)</author>
-      <guid>http://localhost:1313/friday/</guid>
-      <description>1pm: Ramon Rescindez Location: Franklin Hall Room 310
-4pm: Cory Doctorow Location: Franklin Hall Room 310 or Link to zoom here
-Science fiction author, digital rights activist, and journalist Cory Doctorow will keynote the Media School Graduate Association’s Common Ground conference, presenting on his concept of “enshittification.”
-Coined the “2023 Digital Word of the Year,” enshittification describes the process by which internet media platforms become simultaneously unusable and un-quittable.
-Enshittification swept through the digital world over the past decade, and it has only accelerated since, as everything - grocery stores, nursing agencies, even public schools - became digital services.</description>
-      <content:encoded><![CDATA[<h2 id="1pm-ramon-rescindez">1pm: Ramon Rescindez</h2>
+      <guid>https://iucommonground.github.io/friday/</guid>
+      <description>1:30-3pm: Ramon Rescindez Location: Franklin Hall Room 310
+Dr. Ramón Resendiz is a Chicanx documentary filmmaker and media anthropologist from the south Texas, U.S.-Mexico borderlands. He is a Postdoctoral Fellow at the Center for Research on Race and Ethnicity in Society and a Visiting Assistant Professor in the Media School at Indiana University. His research interrogates the material and imaginary intersections of national borders, memory, visual culture, systemic violence, and settler colonialism</description>
+      <content:encoded><![CDATA[<h2 id="130-3pm-ramon-rescindez">1:30-3pm: Ramon Rescindez</h2>
 <p><strong>Location: Franklin Hall Room 310</strong></p>
+<p>Dr. Ramón Resendiz is a Chicanx documentary filmmaker and media anthropologist from the south Texas, U.S.-Mexico borderlands. He is a Postdoctoral Fellow at the Center for Research on Race and Ethnicity in Society and a Visiting Assistant Professor in the Media School at Indiana University. His research interrogates the material and imaginary intersections of national borders, memory, visual culture, systemic violence, and settler colonialism</p>
 <h2 id="4pm-cory-doctorow">4pm: Cory Doctorow</h2>
 <p><strong>Location: Franklin Hall Room 310</strong> or <a href="https://iu.zoom.us/meeting/register/Potbwk7eTlyoeYwaZRr7rw">Link to zoom here</a></p>
 <p>Science fiction author, digital rights activist, and journalist Cory Doctorow will keynote the Media School Graduate Association’s Common Ground conference, presenting on his concept of “enshittification.”</p>
@@ -34,21 +32,21 @@ Enshittification swept through the digital world over the past decade, and it ha
     </item>
     <item>
       <title>Common Ground 2025</title>
-      <link>http://localhost:1313/screenings/</link>
+      <link>https://iucommonground.github.io/screenings/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>commonground@gmail.com (commonground)</author>
-      <guid>http://localhost:1313/screenings/</guid>
+      <guid>https://iucommonground.github.io/screenings/</guid>
       <description>this will be the film screening list</description>
       <content:encoded><![CDATA[<p>this will be the film screening list</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Saturday Panels</title>
-      <link>http://localhost:1313/saturday/</link>
+      <link>https://iucommonground.github.io/saturday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>commonground@gmail.com (commonground)</author>
-      <guid>http://localhost:1313/saturday/</guid>
-      <description>Panel 1 - Media Meets Geography 9am-10am FF 300 Anna Stamm Staying Afloat: TV Station Marketing Strategies &amp;mdash; (Indiana University, Bloomington) Drew H. Using GIS to Stretch Archival Collections: A Case Study from Colorado &amp;mdash; (Indiana University, Bloomington) Feng Yi Yin	Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television &amp;mdash; (Temple University) Abu Mohammad Sakil Faizullah Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins &amp;mdash; (Univerity of Georgia, Atlanta) Panel 2- Media Practices &amp;amp; Praxis Ran Wei The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media &amp;mdash; (Washington University in St.</description>
+      <guid>https://iucommonground.github.io/saturday/</guid>
+      <description>Panel 1 - Media Meets Geography 9am-10am FH 310 Anna Stamm Staying Afloat: TV Station Marketing Strategies &amp;mdash; (Indiana University, Bloomington) Drew H. Using GIS to Stretch Archival Collections: A Case Study from Colorado &amp;mdash; (Indiana University, Bloomington) Feng Yi Yin	Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television &amp;mdash; (Temple University) Abu Mohammad Sakil Faizullah Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins &amp;mdash; (Univerity of Georgia, Atlanta) Panel 2- Media Practices &amp;amp; Praxis 9am-10am FH 210 Ran Wei The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media &amp;mdash; (Washington University in St.</description>
       <content:encoded><![CDATA[<h3 id="panel-1---media-meets-geography">Panel 1 - Media Meets Geography</h3>
-<h4 id="9am-10am-ff-300">9am-10am FF 300</h4>
+<h4 id="9am-10am-fh-310">9am-10am FH 310</h4>
 <ul>
 <li><strong>Anna Stamm</strong>  <em>Staying Afloat: TV Station Marketing Strategies</em> &mdash;
 (Indiana University, Bloomington)</li>
@@ -61,6 +59,7 @@ Enshittification swept through the digital world over the past decade, and it ha
  </li>
 </ul>
 <h3 id="panel-2--media-practices--praxis">Panel 2- Media Practices &amp; Praxis</h3>
+<h4 id="9am-10am-fh-210">9am-10am FH 210</h4>
 <ul>
 <li><strong>Ran Wei</strong> <em>The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media</em> &mdash;
 (Washington University in St. Louis)</li>
@@ -72,6 +71,7 @@ Enshittification swept through the digital world over the past decade, and it ha
  </li>
 </ul>
 <h3 id="panel-3--black-media-experiences">Panel 3- Black Media Experiences</h3>
+<h4 id="1130-1pm-fh-310">11:30-1pm FH 310</h4>
 <ul>
 <li><strong>Marilyn Facey</strong> <em>New Media and Cultural Production: An examination of new media technologies on news and music production culture in Jamaica</em> (University of Illinois, Chicago)</li>
 <li><strong>Kristin Wells</strong>  <em>Mediated Histories of Collegiate Sporting Protests: A Digital Humanities Approach</em> (Indiana University, Bloomington)</li>
@@ -80,6 +80,7 @@ Enshittification swept through the digital world over the past decade, and it ha
  </li>
 </ul>
 <h3 id="panel-4--structuring-environmental-feelings">Panel 4- Structuring Environmental Feelings</h3>
+<h4 id="1130-1pm-fh-210">11:30-1pm FH 210</h4>
 <ul>
 <li><strong>Juntao Yang</strong>  <em>Fault Lines and Echoing Strata: Attunement and Unsecurement through East Asia’s Earthquake-Media</em> &mdash; (Columbia University)</li>
 <li><strong>Stas</strong>  <em>Staging Apocalypse: Chornobyl Cinema, Environmental Protest, and Eschatological Melodrama</em> &mdash; (Indiana University, Bloomington)</li>
