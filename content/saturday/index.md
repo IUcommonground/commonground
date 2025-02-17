@@ -7,7 +7,7 @@ draft: false
 
 ### Panel 1 - Media Meets Geography ###
 
-#### 9am-10am FF 300 ####
+#### 9am-10am FH 310 ####
 
 - **Anna Stamm**  *Staying Afloat: TV Station Marketing Strategies* ---
 (Indiana University, Bloomington)
@@ -20,6 +20,8 @@ draft: false
  &nbsp;
 
 ### Panel 2- Media Practices & Praxis ###
+#### 9am-10am FH 210 ####
+
 
 - **Ran Wei** *The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media* ---
 (Washington University in St. Louis)
@@ -31,6 +33,8 @@ draft: false
  &nbsp;
 
 ### Panel 3- Black Media Experiences ###
+#### 11:30-1pm FH 310 ####
+
 - **Marilyn Facey** *New Media and Cultural Production: An examination of new media technologies on news and music production culture in Jamaica* (University of Illinois, Chicago)
 - **Kristin Wells**  *Mediated Histories of Collegiate Sporting Protests: A Digital Humanities Approach* (Indiana University, Bloomington)
 - **Fabiola D'Angelo**	 **Lovers Rock and The Black Sensorium** (Indiana University)
@@ -38,6 +42,7 @@ draft: false
  &nbsp;
 
 ### Panel 4- Structuring Environmental Feelings ###
+#### 11:30-1pm FH 210 ####
 
 - **Juntao Yang**  *Fault Lines and Echoing Strata: Attunement and Unsecurement through East Asia’s Earthquake-Media* --- (Columbia University)
 - **Stas**  *Staging Apocalypse: Chornobyl Cinema, Environmental Protest, and Eschatological Melodrama* --- (Indiana University, Bloomington)

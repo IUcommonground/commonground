@@ -5,9 +5,11 @@ draft = false
 +++
 
 
-## 1pm: Ramon Rescindez ##
+## 1:30-3pm: Ramon Rescindez ##
 
 **Location: Franklin Hall Room 310**
+
+Dr. Ramón Resendiz is a Chicanx documentary filmmaker and media anthropologist from the south Texas, U.S.-Mexico borderlands. He is a Postdoctoral Fellow at the Center for Research on Race and Ethnicity in Society and a Visiting Assistant Professor in the Media School at Indiana University. His research interrogates the material and imaginary intersections of national borders, memory, visual culture, systemic violence, and settler colonialism
 
 ## 4pm: Cory Doctorow ##
 
