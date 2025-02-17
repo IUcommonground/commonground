@@ -11,12 +11,34 @@
     <lastBuildDate>Sun, 16 Feb 2025 17:05:22 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Friday Schedule</title>
+      <title>Keynote Speakers</title>
       <link>http://localhost:1313/friday/</link>
       <pubDate>Sun, 16 Feb 2025 17:05:22 -0500</pubDate><author>commonground@gmail.com (commonground)</author>
       <guid>http://localhost:1313/friday/</guid>
-      <description>First we gonna have Ramon talk and then we gonna have Cory Doctorow talk and then we are gonna have a screening</description>
-      <content:encoded><![CDATA[<p>First we gonna have Ramon talk and then we gonna have Cory Doctorow talk and then we are gonna have a screening</p>
+      <description>1pm: Ramon Rescindez Location: Franklin Hall Room 310
+4pm: Cory Doctorow Location: Franklin Hall Room 310 or Link to zoom here
+Science fiction author, digital rights activist, and journalist Cory Doctorow will keynote the Media School Graduate Association’s Common Ground conference, presenting on his concept of “enshittification.”
+Coined the “2023 Digital Word of the Year,” enshittification describes the process by which internet media platforms become simultaneously unusable and un-quittable.
+Enshittification swept through the digital world over the past decade, and it has only accelerated since, as everything - grocery stores, nursing agencies, even public schools - became digital services.</description>
+      <content:encoded><![CDATA[<h2 id="1pm-ramon-rescindez">1pm: Ramon Rescindez</h2>
+<p><strong>Location: Franklin Hall Room 310</strong></p>
+<h2 id="4pm-cory-doctorow">4pm: Cory Doctorow</h2>
+<p><strong>Location: Franklin Hall Room 310</strong> or <a href="https://iu.zoom.us/meeting/register/Potbwk7eTlyoeYwaZRr7rw">Link to zoom here</a></p>
+<p>Science fiction author, digital rights activist, and journalist Cory Doctorow will keynote the Media School Graduate Association’s Common Ground conference, presenting on his concept of “enshittification.”</p>
+<p>Coined the “2023 Digital Word of the Year,” enshittification describes the process by which internet media platforms become simultaneously unusable and un-quittable.</p>
+<p>Enshittification swept through the digital world over the past decade, and it has only accelerated since, as everything - grocery stores, nursing agencies, even public schools - became digital services. The more digital something is, the more vulnerable it is to enshittification.</p>
+<p>Enshittification isn’t a force of nature. It’s not a historic inevitability. It’s the eminently foreseeable result of specific policy choices made by named individuals in living memory, after these individuals were warned that enshittification would ensue. Enshittification was a choice, not an accident.</p>
+<p>The choices that led to enshittification are not graven in stone. They are just that - <em>choices</em>. We can choose otherwise. Indeed, we <em>must</em>, if we are to have an internet that is fit for purpose and can serve as the digital nervous system that we can use to coordinate our survival in a 21st century beset by genocide, ecological collapse, and economic chaos.</p>
+<p>What policy choices can we make? What path can get us to those choices? How do we end the enshittocene and build a new, good internet?</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Common Ground 2025</title>
+      <link>http://localhost:1313/screenings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>commonground@gmail.com (commonground)</author>
+      <guid>http://localhost:1313/screenings/</guid>
+      <description>this will be the film screening list</description>
+      <content:encoded><![CDATA[<p>this will be the film screening list</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -24,26 +46,32 @@
       <link>http://localhost:1313/saturday/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><author>commonground@gmail.com (commonground)</author>
       <guid>http://localhost:1313/saturday/</guid>
-      <description>Panel Location: Franklin Hall,
-Panel 1 - Media Meets Geography Anna Stamm Staying Afloat: TV Station Marketing Strategies (Indiana University, Media School) Drew H. Using GIS to Stretch Archival Collections: A Case Study from Colorado (Indiana University, Bloomington) Feng Yi Yin	Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television (Temple University) Abu Mohammad Sakil Faizullah Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins (Univerity of Georgia, Atlanta) Panel 2- Media Practices &amp;amp; Praxis Ran Wei *The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media (Washington University in St.</description>
-      <content:encoded><![CDATA[<p>Panel Location: Franklin Hall,</p>
-<h2 id="panel-1---media-meets-geography">Panel 1 - Media Meets Geography</h2>
+      <description>Panel 1 - Media Meets Geography 9am-10am FF 300 Anna Stamm Staying Afloat: TV Station Marketing Strategies &amp;mdash; (Indiana University, Bloomington) Drew H. Using GIS to Stretch Archival Collections: A Case Study from Colorado &amp;mdash; (Indiana University, Bloomington) Feng Yi Yin	Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television &amp;mdash; (Temple University) Abu Mohammad Sakil Faizullah Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins &amp;mdash; (Univerity of Georgia, Atlanta) Panel 2- Media Practices &amp;amp; Praxis Ran Wei The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media &amp;mdash; (Washington University in St.</description>
+      <content:encoded><![CDATA[<h3 id="panel-1---media-meets-geography">Panel 1 - Media Meets Geography</h3>
+<h4 id="9am-10am-ff-300">9am-10am FF 300</h4>
 <ul>
-<li><strong>Anna Stamm</strong>  <em>Staying Afloat: TV Station Marketing Strategies</em> (Indiana University, Media School)</li>
-<li><strong>Drew H.</strong>   <em>Using GIS to Stretch Archival Collections: A Case Study from Colorado</em> (Indiana University, Bloomington)</li>
-<li><strong>Feng Yi Yin</strong>	 <em>Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television</em> (Temple University)</li>
-<li><strong>Abu Mohammad Sakil Faizullah</strong> <em>Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins</em> (Univerity of Georgia, Atlanta)
+<li><strong>Anna Stamm</strong>  <em>Staying Afloat: TV Station Marketing Strategies</em> &mdash;
+(Indiana University, Bloomington)</li>
+<li><strong>Drew H.</strong>   <em>Using GIS to Stretch Archival Collections: A Case Study from Colorado</em> &mdash;
+(Indiana University, Bloomington)</li>
+<li><strong>Feng Yi Yin</strong>	 <em>Linguistic Politics, Hybridity, and Localization: The Making of Transnational Indigenous African Language Television</em> &mdash;
+(Temple University)</li>
+<li><strong>Abu Mohammad Sakil Faizullah</strong> <em>Exploring Bluetooth Adoption Among Marginalized Rural Young Adults in Bangladesh: A Study from the Margins</em> &mdash;
+(Univerity of Georgia, Atlanta)
  </li>
 </ul>
-<h2 id="panel-2--media-practices--praxis">Panel 2- Media Practices &amp; Praxis</h2>
+<h3 id="panel-2--media-practices--praxis">Panel 2- Media Practices &amp; Praxis</h3>
 <ul>
-<li><strong>Ran Wei</strong> *The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media (Washington University in St. Louis)</li>
-<li><strong>Jenna Sears</strong> <em>Digital Creative Geographies: Intercultural Filmmaking as Affective Placemaking</em> (Indiana University)</li>
-<li><strong>Julia longo</strong>	 <em>Journalistic documentaries as an emancipatory practice for adolescents: dialogues between communicative citizenship and media literacy</em> (Temple University)</li>
-<li><strong>Narmeen Ijaz</strong> * Ethics in Feminist Documentary: Implications of Class and Privilege in Sharmeen Obaid-Chinoy’s Films* (Indiana University, Media School)</li>
+<li><strong>Ran Wei</strong> <em>The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media</em> &mdash;
+(Washington University in St. Louis)</li>
+<li><strong>Jenna Sears</strong> <em>Digital Creative Geographies: Intercultural Filmmaking as Affective Placemaking</em> &mdash;
+(Indiana University)</li>
+<li><strong>Julia longo</strong>	 <em>Journalistic documentaries as an emancipatory practice for adolescents: dialogues between communicative citizenship and media literacy</em> &mdash;
+(Temple University)</li>
+<li><strong>Narmeen Ijaz</strong> <em>Ethics in Feminist Documentary: Implications of Class and Privilege in Sharmeen Obaid-Chinoy’s Films</em> &mdash; (Indiana University, Bloomington)
+ </li>
 </ul>
-<p> </p>
-<h2 id="panel-3--black-media-experiences">Panel 3- Black Media Experiences</h2>
+<h3 id="panel-3--black-media-experiences">Panel 3- Black Media Experiences</h3>
 <ul>
 <li><strong>Marilyn Facey</strong> <em>New Media and Cultural Production: An examination of new media technologies on news and music production culture in Jamaica</em> (University of Illinois, Chicago)</li>
 <li><strong>Kristin Wells</strong>  <em>Mediated Histories of Collegiate Sporting Protests: A Digital Humanities Approach</em> (Indiana University, Bloomington)</li>
@@ -51,22 +79,22 @@ Panel 1 - Media Meets Geography Anna Stamm Staying Afloat: TV Station Marketing 
 <li><strong>Omoleye Adeyemi</strong>	<em>The Shade Room—A Digital Third Space for Black Individuals</em> (Univeristy of Maryland College Park)
  </li>
 </ul>
-<h2 id="panel-4--structuring-environmental-feelings">Panel 4- Structuring Environmental Feelings</h2>
+<h3 id="panel-4--structuring-environmental-feelings">Panel 4- Structuring Environmental Feelings</h3>
 <ul>
-<li><strong>Juntao Yang</strong>  <em>Fault Lines and Echoing Strata: Attunement and Unsecurement through East Asia’s Earthquake-Media</em> (Columbia University)</li>
-<li><strong>Stas</strong>  <em>Staging Apocalypse: Chornobyl Cinema, Environmental Protest, and Eschatological Melodrama</em> (Indiana University, Bloomington)</li>
+<li><strong>Juntao Yang</strong>  <em>Fault Lines and Echoing Strata: Attunement and Unsecurement through East Asia’s Earthquake-Media</em> &mdash; (Columbia University)</li>
+<li><strong>Stas</strong>  <em>Staging Apocalypse: Chornobyl Cinema, Environmental Protest, and Eschatological Melodrama</em> &mdash; (Indiana University, Bloomington)</li>
 <li><strong>Priscilla Boateng</strong>  <em>Navigating Motherhood and Mental Health in Ghana: A Critical Discourse Analysis of Postpartum Depression on Facebook</em> (Indiana University)</li>
 <li><strong>Shitemi Khamadi</strong> <em>Media Representation of Indigenous Communities in Environmental Court Cases: A Feminist Critical Discourse Analysis of Landmark Judgments in Africa</em> (Indiana University, Bloomington)
  </li>
 </ul>
-<h2 id="panel-5--fan-power">Panel 5- Fan Power</h2>
+<h3 id="panel-5--fan-power">Panel 5- Fan Power</h3>
 <ul>
 <li><strong>Juntong Wu</strong> <em>Mediating Film Festival in Post-Pandemic China: Cinephiles and Grassroots Media</em> (?)</li>
 <li><strong>Selena Cotte</strong> <em>Video essays and fan historians as alternative academics: Considering Defunctland and other theme park studies.</em> (University of Illinois, Chicago)</li>
 <li><strong>Aditya Sahasrabudhe</strong> <em>Investigating fan aggression as a reaction to mediated crowd behavior</em> (Indiana University, Bloomington)
  </li>
 </ul>
-<h2 id="panel-6--rendering-media-visions">Panel 6- Rendering Media Visions</h2>
+<h3 id="panel-6--rendering-media-visions">Panel 6- Rendering Media Visions</h3>
 <ul>
 <li><strong>Aileen Min</strong> <em>Digital Water and Generative Absence: Reimagining East Asian Aesthetics in Digital Art</em> (Columbia University)</li>
 <li><strong>Ibrahim Odugbemi</strong> <em>Global South Cinemas in the Face of Neoliberal Capitalism: The Examples of Nigeria and South Korea</em> (Indiana University, Bloomington)</li>
@@ -74,7 +102,7 @@ Panel 1 - Media Meets Geography Anna Stamm Staying Afloat: TV Station Marketing 
 <li><strong>Janice Day</strong> <em>Re-visioning the Undefinable: A Generative Rhetorical Analysis of Trauma Narratives in Horror Films</em> (Indiana University, Indianapolis)
  </li>
 </ul>
-<h2 id="panel-7--heremeneutics">Panel 7- Heremeneutics</h2>
+<h3 id="panel-7--heremeneutics">Panel 7- Heremeneutics</h3>
 <ul>
 <li><strong>Christopher Michael Hansen</strong>  <em>Conjuring Seth: On Posthuman Creative Practice in The Seth Material</em>  (University of Buffalo)</li>
 <li><strong>Ahmed Tahsin Shams</strong> <em>Thijs Biersteker’s Screen Eco-Art as Green Publishing Prototype in the Anthropocene</em>  (Indiana University, Bloomington)</li>
@@ -82,7 +110,7 @@ Panel 1 - Media Meets Geography Anna Stamm Staying Afloat: TV Station Marketing 
 <li><strong>Sohrab Mirab</strong>  <em>History, Allegory, and Poetics of Dissent: Pre-Revolutionary Iranian Avant-grade Animations of CIDCA</em>  (Indiana University, Bloomington)
  </li>
 </ul>
-<h2 id="panel-8--interrogating-power-narratives">Panel 8- Interrogating Power Narratives</h2>
+<h3 id="panel-8--interrogating-power-narratives">Panel 8- Interrogating Power Narratives</h3>
 <ul>
 <li><strong>Cole Nelson and Jamie Theophilos</strong>	<em>Countering Repression and narrative architects in the Stop Cop City Movement</em> (Indiana University, Bloomington)</li>
 <li><strong>Jeff Moscaritolo</strong> <em>The Cooley Report, Orientalist Knowledge-Making, and Dunn Meadow</em> (Indiana University, Bloomington)</li>

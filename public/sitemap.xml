@@ -8,6 +8,8 @@
     <loc>http://localhost:1313/friday/</loc>
     <lastmod>2025-02-16T17:05:22-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/screenings/</loc>
+  </url><url>
     <loc>http://localhost:1313/saturday/</loc>
   </url>
 </urlset>

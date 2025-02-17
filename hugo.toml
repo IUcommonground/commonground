@@ -33,14 +33,22 @@ pageRef = "/"
 weight = 10
 
 [[menu.main]]
-name = "Friday"
+name = "Keynotes"
 pageRef = "/friday"
 weight = 20
 
 [[menu.main]]
-name = "Saturday"
+name = "Film Screenings"
+pageRef = "/screenings"
+weight = 30
+
+[[menu.main]]
+name = "Panels"
 pageRef = "/saturday"
-weight = 20
+weight = 40
+
+
+
 
 [pagination]
 pagerSize = 16
