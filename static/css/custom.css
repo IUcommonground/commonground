@@ -1,0 +1,46 @@
+body {
+  background-color: white;
+}
+
+
+
+p {
+  color: black
+}
+
+h2 {
+  color: grey;
+}
+
+a {
+  color: #8B0000;
+}
+
+
+a:visited {
+  color: grey;
+}
+
+
+a:active {
+  text-decoration: underline;
+}
+
+header > nav a,
+header > nav a:visited {
+  border: 1px solid grey !important;
+}
+
+header > nav a:hover,
+header > nav a.current,
+header > nav a[aria-current="page"],
+header > nav a[aria-current="true"] {
+  border-color: grey !important;
+  color: #8B0000 !important;
+  cursor: pointer;
+}
+
+ul, ol {
+  color: black; /* Change this to any color you want */
+}
+

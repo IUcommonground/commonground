@@ -1,7 +1,7 @@
 baseURL = 'https://iucommonground.github.io/'
 languageCode = 'en-us'
 title = 'Common Ground 2025'
-theme= 'hugo-simple'
+theme = 'hugo-simple'
 
 
 # Generate a nice robots.txt for SEO
@@ -12,24 +12,7 @@ capitalizeListTitles = false
 
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
-# ignoreErrors = ["error-disable-taxonomy"]
-[taxonomies]
-tag = "tags"
 
-[permalinks]
-blog = "/:slugorfilename/"
-tags = "/blog/:slug"
-
-[markup.goldmark.renderer]
-unsafe = true
-[markup.tableOfContents]
-startLevel = 2
-endLevel = 3
-[markup.highlight]
-lineNos = true
-lineNumbersInTable = false
-noClasses = true
-style = "catppuccin-mocha"
 
 [params]
 title = "Hugo Simple"
@@ -38,13 +21,11 @@ favicon = "images/favicon.png"
 dateFormat = "2006-01-02"
 hideMadeWithLine = false
 hideRSSLink = true
-customCSS = "css/custom.css"
-extraCSS = "css/custom.css"
+custom_css = ["css/custom.css"]
 
 [params.author]
 name = "commonground"
-email = "shaolong.chen@outlook.it"
-
+email = "commonground@gmail.com"
 
 [[menu.main]]
 name = "Home"
@@ -60,7 +41,6 @@ weight = 20
 name = "Saturday"
 pageRef = "/saturday"
 weight = 20
-
 
 [pagination]
 pagerSize = 16
