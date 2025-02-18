@@ -2,27 +2,39 @@ body {
   background-color: white;
 }
 
-
+h1 {
+  font-family: "Lato", "Roboto", Helvetica, Arial, sans-serif;
+}
 
 p {
-  color: black
+  color: black;
+  font-family: Arial, Helvetica, "Roboto", sans-serif;
+
 }
 
 
 h2 {
   color: grey;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+
 }
 
 h3 {
   color: grey;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+
 }
 
 h4 {
   color: black;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+
 }
 
 h5 {
   color: black;
+  font-family: Helvetica, Arial, sans-serif;
+
 }
 
 a {

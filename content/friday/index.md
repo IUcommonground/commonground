@@ -5,23 +5,28 @@ draft = false
 +++
 
 
-## Ramon Rescindez ##
+## Ramon Resendiz ##
 
-**1:30pm Location: Franklin Hall, Room 310**
+**1:30pm, Franklin Hall, Room 310**
 
-Dr. Ramón Resendiz is a Chicanx documentary filmmaker and media anthropologist from the south Texas, U.S.-Mexico borderlands. He is a Postdoctoral Fellow at the Center for Research on Race and Ethnicity in Society and a Visiting Assistant Professor in the Media School at Indiana University. His research interrogates the material and imaginary intersections of national borders, memory, visual culture, systemic violence, and settler colonialism
+[Dr. Ramón Resendiz](https://www.imdb.com/name/nm7475396/bio/) is a Xicanx documentary media producer and visual anthropologist from the south Texas borderlands. His research interrogates the material and imaginary intersections of systemic violence, national borders, memory, visual culture, and settler colonialism. He investigates the erasure of Indigenous peoples and how modern nation states are visualized by archival institutions across the Texas/U.S. and northern Mexico border landscapes, and the ways memory workers and cultural producers render these erasures visible.
+
+He has produced multiple collaborative documentaries including, Voces del Norte: *Mariachi Quinto Sol de UW* (2016), *El Muro | The Wall* (2017), and *Migrant: A Reflection from Thundercloud* (2019). He holds a Ph.D. in Media, Culture, and Communication from New York University and is currently a Postdoctoral Research Fellow at the Center for Research on Race & Society at Indiana University.
+
 
 ## Cory Doctorow ##
 
-**4pm, Location: Franklin Hall, Room 310** or [Link to zoom here](https://iu.zoom.us/meeting/register/Potbwk7eTlyoeYwaZRr7rw)
+**4pm, Franklin Hall, Room 310** or [Link to zoom here](https://iu.zoom.us/meeting/register/Potbwk7eTlyoeYwaZRr7rw)
 
-Science fiction author, digital rights activist, and journalist Cory Doctorow will keynote the Media School Graduate Association’s Common Ground conference, presenting on his concept of “enshittification.”
+[Cory Doctorow](https://pluralistic.net/) is a science fiction author, digital rights activist, and journalist. His most recent nonfiction book is [The Internet Con: How to Seize The Means of Internet Computation](https://www.penguinrandomhouse.com/books/721311/the-internet-con-by-cory-doctorow/) (2023) a Big Tech disassembly manual. He is also the author of [Chokepoint Capitalism] (https://chokepointcapitalism.com/) (with Rebecca Giblin) (2023), about creative labor markets and monopoly; [How to Destroy Surveillance Capitalism](https://craphound.com/category/destroy/) (2020)
+
+
+
+Cory Doctorow will keynote the Media School Graduate Association’s Common Ground conference, presenting on his concept of **“enshittification.”**
 
 Coined the “2023 Digital Word of the Year,” enshittification describes the process by which internet media platforms become simultaneously unusable and un-quittable.
 
-Enshittification swept through the digital world over the past decade, and it has only accelerated since, as everything - grocery stores, nursing agencies, even public schools - became digital services. The more digital something is, the more vulnerable it is to enshittification.
-
-Enshittification isn’t a force of nature. It’s not a historic inevitability. It’s the eminently foreseeable result of specific policy choices made by named individuals in living memory, after these individuals were warned that enshittification would ensue. Enshittification was a choice, not an accident.
+*Enshittification* swept through the digital world over the past decade, and it has only accelerated since, as everything - grocery stores, nursing agencies, even public schools - became digital services. The more digital something is, the more vulnerable it is to enshittification.*Enshittification* isn’t a force of nature. It’s not a historic inevitability. It’s the eminently foreseeable result of specific policy choices made by named individuals in living memory, after these individuals were warned that enshittification would ensue. Enshittification was a choice, not an accident.
 
 The choices that led to enshittification are not graven in stone. They are just that - *choices*. We can choose otherwise. Indeed, we *must*, if we are to have an internet that is fit for purpose and can serve as the digital nervous system that we can use to coordinate our survival in a 21st century beset by genocide, ecological collapse, and economic chaos.
 
