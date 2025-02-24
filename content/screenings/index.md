@@ -25,7 +25,10 @@ Changelog’s composition is sometimes wonky and misaligned, refractive with inf
 > It is an easy-going video of friends and family's favorite pair of shoes that highlights individuality.
 
 **Ahmed Tahsin Shams**, “Truth, Power, and Freedom” (2025)
->“The documentary film Truth Power and Freedom (11mins, 2025) captures the journey of Eric, a young Ghana-born American artist, as he navigates the complexities of identity, belonging, and artistic expression in the USA. Blending mixed media—canvas painting, music video aesthetics, and line art animation—the film attempts a blend of immersiveness and, at the same time, the Brechtian V-effect in Eric’s evolving creative process. His brushstrokes breathe life into historical figures like Trayvon Martin, Tamir Rice, and Emmett Till, reimagining them through his art as voices that refuse to be silenced. As the camera follows Eric crafting a new painting, his reflections on community, memory, and resistance unfold, shaping not only his canvas but the very essence of his identity.”
+>This documentary film captures the journey of Eric, a young Ghana-born American artist, as he navigates the complexities of identity, belonging, and artistic expression in the USA. Blending mixed media—canvas painting, music video aesthetics, and line art animation—the film attempts a blend of immersiveness and, at the same time, the Brechtian V-effect in Eric’s evolving creative process. His brushstrokes breathe life into historical figures like Trayvon Martin, Tamir Rice, and Emmett Till, reimagining them through his art as voices that refuse to be silenced. As the camera follows Eric crafting a new painting, his reflections on community, memory, and resistance unfold, shaping not only his canvas but the very essence of his identity.
+
+**Brian Johnson,** "I Can't Stop" (2024)
+>Originally created for my fall semester Production Practicum, this film uses a combination of self-shot and found footage. I chose to make this short a personal essay about the constant pressure to push myself using motion as the driving force behind the scenes.
 
 **Weihong Zheng**, “The Diagrams of Sheshan Observatory” *University of Washington, Seattle*
 
