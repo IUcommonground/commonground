@@ -15,6 +15,12 @@ draft = false
 
 He has produced multiple collaborative documentaries including, Voces del Norte: *Mariachi Quinto Sol de UW* (2016), *El Muro | The Wall* (2017), and *Migrant: A Reflection from Thundercloud* (2019). He holds a Ph.D. in Media, Culture, and Communication from New York University and is currently a Postdoctoral Research Fellow at the Center for Research on Race & Society at Indiana University.
 
+**Exhuming Archival Resistance: Memory, Media, and Cultural Production on the Margins of the U.S.**
+
+>The U.S.-Mexico borderlands are among the most heavily militarized and politicized landscapes of the 21st century, mediated through digital, print, social, and mass media. Mainstream narratives often frame this region as a lawless frontier under perpetual threat from Latin American asylum seekers, constructing it as an ahistorical site of encounter that legitimizes the carceral realities faced by migrants in the U.S.
+Drawing on over a decade of visual documentary fieldwork, Dr. Ramón Resendiz presents insights from his multimodal ethnographic research on the U.S.’s southern margins. As both theorist and media producer, he employs video and film to document the present while exhuming erased histories of violence, revealing the enduring coloniality of power embedded in the aestheticizing regimes of Texas, Mexico, and the American Southwest. His work highlights overlooked acts of resistance by subaltern communities, illuminating their role in shaping the modern borderlands.
+This keynote examines the visual culture of settler colonial archival institutions in the Texas borderlands, alongside resistance histories enacted by Mexican, Indigenous, and Black communities. It explores how these histories are in/visibilized, under/documented, and reimagined across media, shaping everyday visual experiences in “The Lone Star State”—the unceded lands of Indigenous peoples systematically erased from Texas’s historical record. Ultimately, this talk envisions more just representations of past violence to establish frameworks for justice, reconciliation, and a more equitable future.
+
 
 
 ## Cory Doctorow ##

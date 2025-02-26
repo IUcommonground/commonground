@@ -41,14 +41,15 @@ draft: false
 - **Omoleye Adeyemi**	*The Shade Room—A Digital Third Space for Black Individuals* (Univeristy of Maryland, College Park)
  &nbsp;
 
-### Panel 4: Structuring Environmental Feelings ###
+### Panel 4: Heremeneutics ###
 #### 11:30am FH 210 ####
 
-- **Juntao Yang**  *Fault Lines and Echoing Strata: Attunement and Unsecurement through East Asia’s Earthquake-Media* --- (Columbia University)
-- **Stanislav Menzelevskyi**  *Staging Apocalypse: Chornobyl Cinema, Environmental Protest, and Eschatological Melodrama* --- (Indiana University, Bloomington)
-- **Priscilla Boateng**  *Navigating Motherhood and Mental Health in Ghana: A Critical Discourse Analysis of Postpartum Depression on Facebook* (Indiana University, Bloomington)
-- **Shitemi Khamadi** *Media Representation of Indigenous Communities in Environmental Court Cases: A Feminist Critical Discourse Analysis of Landmark Judgments in Africa* (Indiana University, Bloomington)
-&nbsp;
+- **Christopher Michael Hansen**  *Conjuring Seth: On Posthuman Creative Practice in The Seth Material*  (University of Buffalo)
+- **Ahmed Tahsin Shams** *Thijs Biersteker’s Screen Eco-Art as Green Publishing Prototype in the Anthropocene*  (Indiana University, Bloomington)
+- **SaeHim Park** *Immersivce Biohazards and VR Proximity* (Xavier University of Louisiana)
+- **Sohrab Mirab**  *History, Allegory, and Poetics of Dissent: Pre-Revolutionary Iranian Avant-grade Animations of CIDCA*  (Indiana University, Bloomington)
+ &nbsp;
+
 
 ### Panel 5: Fan Power ###
 #### 3:15pm FH 310 ####
@@ -68,14 +69,15 @@ draft: false
 - **Janice Day** *Re-visioning the Undefinable: A Generative Rhetorical Analysis of Trauma Narratives in Horror Films* (Indiana University, Indianapolis)
 &nbsp;
 
-### Panel 7: Heremeneutics ###
+
+### Panel 7: Structuring Environmental Feelings ###
 #### 4:30pm FH 310 ####
 
-- **Christopher Michael Hansen**  *Conjuring Seth: On Posthuman Creative Practice in The Seth Material*  (University of Buffalo)
-- **Ahmed Tahsin Shams** *Thijs Biersteker’s Screen Eco-Art as Green Publishing Prototype in the Anthropocene*  (Indiana University, Bloomington)
-- **SaeHim Park** *Immersivce Biohazards and VR Proximity* (Xavier University of Louisiana)
-- **Sohrab Mirab**  *History, Allegory, and Poetics of Dissent: Pre-Revolutionary Iranian Avant-grade Animations of CIDCA*  (Indiana University, Bloomington)
- &nbsp;
+- **Juntao Yang**  *Fault Lines and Echoing Strata: Attunement and Unsecurement through East Asia’s Earthquake-Media* --- (Columbia University)
+- **Stanislav Menzelevskyi**  *Staging Apocalypse: Chornobyl Cinema, Environmental Protest, and Eschatological Melodrama* --- (Indiana University, Bloomington)
+- **Priscilla Boateng**  *Navigating Motherhood and Mental Health in Ghana: A Critical Discourse Analysis of Postpartum Depression on Facebook* (Indiana University, Bloomington)
+- **Shitemi Khamadi** *Media Representation of Indigenous Communities in Environmental Court Cases: A Feminist Critical Discourse Analysis of Landmark Judgments in Africa* (Indiana University, Bloomington)
+&nbsp;
 
 ### Panel 8: Interrogating Power Narratives ###
 #### 4:30pm FH 210 ####
