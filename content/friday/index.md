@@ -30,7 +30,7 @@ This keynote examines the visual culture of settler colonial archival institutio
 ![targets](/images/doctorowflyer.png)
 
 
-[Cory Doctorow](https://pluralistic.net/) is a science fiction author, digital rights activist, and journalist. His most recent nonfiction book is [The Internet Con: How to Seize The Means of Internet Computation](https://www.penguinrandomhouse.com/books/721311/the-internet-con-by-cory-doctorow/) (2023) a Big Tech disassembly manual. He is also the author of [Chokepoint Capitalism] (https://chokepointcapitalism.com/) (with Rebecca Giblin) (2023), about creative labor markets and monopoly; [How to Destroy Surveillance Capitalism](https://craphound.com/category/destroy/) (2020)
+[Cory Doctorow](https://pluralistic.net/) is a science fiction author, digital rights activist, and journalist. His most recent nonfiction book is [The Internet Con: How to Seize The Means of Internet Computation](https://www.penguinrandomhouse.com/books/721311/the-internet-con-by-cory-doctorow/) (2023) a Big Tech disassembly manual. He is also the author of [Chokepoint Capitalism](https://chokepointcapitalism.com/) (with Rebecca Giblin) (2023), about creative labor markets and monopoly; [How to Destroy Surveillance Capitalism](https://craphound.com/category/destroy/) (2020)
 
 Cory Doctorow will keynote the Media School Graduate Association’s Common Ground conference, presenting on his concept of *enshittification.* Coined the “2023 Digital Word of the Year,” enshittification describes the process by which internet media platforms become simultaneously unusable and un-quittable.
 
