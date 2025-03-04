@@ -7,7 +7,7 @@ draft: false
 
 ### Panel 1: Media Meets Geography ###
 
-#### 9am FH 310 ####
+#### 10am FH 310 ####
 
 - **Anna Stamm** *Staying Afloat: TV Station Marketing Strategies*
 (Indiana University, Bloomington)
@@ -20,7 +20,7 @@ draft: false
  &nbsp;
 
 ### Panel 2: Media Practices & Praxis ###
-#### 9am FH 210 ####
+#### 10am FH 210 ####
 
 
 - **Ran Wei** *The Paradox of Narrating from the Margins: the Self-representations of Kamagasaki in Amateur Media*
@@ -57,7 +57,7 @@ draft: false
 - **Juntong Wu** *Mediating Film Festival in Post-Pandemic China: Cinephiles and Grassroots Media* (Columbia University) *(on zoom)*
 - **Selena Cotte** *Video essays and fan historians as alternative academics: Considering Defunctland and other theme park studies.* (University of Illinois, Chicago)
 - **Aditya Sahasrabudhe** *Investigating fan aggression as a reaction to mediated crowd behavior* (Indiana University, Bloomington)
-- **Marina Mecham* *A film they did not want you to see”: Jamil X. T. Qubeka’s Of Good Report, Sexual Violence, and the Horror of Government Denial* (Indiana University, Bloomington)
+- **Marina Mecham** *A film they did not want you to see”: Jamil X. T. Qubeka’s Of Good Report, Sexual Violence, and the Horror of Government Denial* (Indiana University, Bloomington)
 &nbsp;
 
 ### Panel 6: Rendering Media Visions ###

@@ -5,7 +5,7 @@ draft = false
 +++
 
 
-## Ramon Resendiz ##
+## Ramón Resendiz ##
 
 **1:30pm, Franklin Hall, Room 310**
 

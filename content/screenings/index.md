@@ -2,7 +2,7 @@
 title: Friday Film Screening
 ---
 
-#### Film screening will be at 7pm in the Commons of Franklin Hall ####
+### Friday's film screening will be at 7pm in the Commons of Franklin Hall ###
 
 
 **Dana Kirk**, “Changelog,” (2024) *Indiana University, Bloomington*
@@ -10,7 +10,7 @@ title: Friday Film Screening
 Changelog’s composition is sometimes wonky and misaligned, refractive with information and reflections, edited with the impatient cuts of a Youtube vlog, accented by the palpable clacking of keyboard keys. Rather than simply emulate the chaos of the internet, I want the audience to feel what it feels like to exist online. There is chaos and there is also solitude and quiet and remnants of memory. All while keys click.
 
 **Jack Bassett**, “Kuehnert Dairy” (2024) *Indiana University, Bloomington*
-> In Fort Wayne, Indiana for the last 125 years, the Kuehnert Family has bottled endless memories and gallon after gallon of milk. Now a new generation of Kuehnert Dairy Farmers have taken over things and have added a direct cow-to-consumer means of enjoyment. Entitled: “The Milk House”, the family’s new venture provides milk lovers with calcium-protein-rich natural dairy creations sold on the site the milk came from. Milk, Cheese, Butter, Ice Cream, and more are made from Kuehnert cows. The fifth-generation owner: Andrew Kuehnert aims to continue to grow agritourism with his family farm through the Milk House. The Kuehnert’s and their 300-plus cows are bringing in visitors to see how their operation works and tasting the farm’s dairy creations. This dairy showcases hows to illustrate the moo-ivng message of how hard work, passion, and reimagining a family tradition can keep a pillar business alive for the next generation.
+> In Fort Wayne, Indiana for the last 125 years, the Kuehnert Family has bottled endless memories and gallon after gallon of milk. Now a new generation of Kuehnert Dairy Farmers have taken over things and have added a direct cow-to-consumer means of enjoyment. Entitled: “The Milk House”, the family’s new venture provides milk lovers with calcium-protein-rich natural dairy creations sold on the site the milk came from. Milk, Cheese, Butter, Ice Cream, and more are made from Kuehnert cows. The fifth-generation owner: Andrew Kuehnert aims to continue to grow agritourism with his family farm through the Milk House. The Kuehnert’s and their 300-plus cows are bringing in visitors to see how their operation works and tasting the farm’s dairy creations. This dairy showcases hows to illustrate the moo-ving message of how hard work, passion, and reimagining a family tradition can keep a pillar business alive for the next generation.
 
 **Adam Ritchie Carroll**, “Mundane” (2024) *Indiana University, Bloomington*
 >Is it a routine or mundanity? How does your daily life play out, how do you pass the time?
@@ -21,7 +21,7 @@ Changelog’s composition is sometimes wonky and misaligned, refractive with inf
 **Michael Yang**, “Snow Blindness” *School of the Art Institute of Chicago*
 >Snow Blindness is an interdisciplinary art installation and performance piece that explores themes of technology, self-expression, and intimacy. Drawing on the phenomenon of snow blindness—a condition where one’s vision is overwhelmed in environments lacking focal points—the project translates this concept into a metaphor for the disorienting effects of digital communication. By layering personal recordings, reactive lighting, and real-time video distortion, this installation examines the often incomplete or distorted expressions of self in intimate relationships, mediated through technology.
 
-**Holden Brown**, “My Favorite Pair” *Indiana University, Bloomington* (2024)
+**Holden Brown**, “My Favorite Pair” (2024) *Indiana University, Bloomington*
 > It is an easy-going video of friends and family's favorite pair of shoes that highlights individuality.
 
 **Ahmed Tahsin Shams**, “Truth, Power, and Freedom” (2025)
@@ -29,7 +29,7 @@ Changelog’s composition is sometimes wonky and misaligned, refractive with inf
 
 **Weihong Zheng**, “The Diagrams of Sheshan Observatory” *University of Washington, Seattle*
 
-**Brian Johnson,** "I Can't Stop" *Indiana University, Bloomington* (2024)
+**Brian Johnson**, "I Can't Stop" (2024) *Indiana University, Bloomington*
 >Originally created for my fall semester Production Practicum, this film uses a combination of self-shot and found footage. I chose to make this short a personal essay about the constant pressure to push myself using motion as the driving force behind the scenes.
 
 

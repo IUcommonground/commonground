@@ -16,23 +16,25 @@ The 2025 conference will feature the renowned keynote speakers
 
 
 
-## Schedule ##
+#### Schedule ###
 
 ##### Friday March 7th #####
 
 
-1:30-3pm: [Ramon Resendiz](https://iucommonground.github.io/friday/) keynote (room 310) \
+1:30-3pm: [Ramón Resendiz](https://iucommonground.github.io/friday/) keynote (room 310) \
 3-4 PM: Mixer (room 310) \
 4-5:30pm: [Cory Doctorow](https://iucommonground.github.io/friday/) keynote (room 310) \
-7 PM- 9pm: [Film screenings](https://iucommonground.github.io/screenings/) with refreshments/snacks (Franklin Hall Commons)
-
+7 PM- 9pm: [Film screenings](https://iucommonground.github.io/screenings/) with refreshments & snacks (Franklin Hall Commons)
 
 
 
 ##### Saturday March 8th #####
 
-9pm: Breakfast (room 310) \
+9am: Breakfast (room 310) \
 10am - 4:30pm: [Panels](https://iucommonground.github.io/saturday) (rooms 310 and 210) \
 6pm: Closing plenary (room 310) \
-8pm: Post event (TBD)
+8pm: Post social event! (TBD)
 
+
+
+*For any questions please email us at* [commongroundconf@gmail.com](mailto:commongroundconf@gmail.com)
