@@ -33,7 +33,7 @@ The 2025 conference will feature the renowned keynote speakers
 9am: Breakfast (room 310) \
 10am - 4:30pm: [Panels](https://iucommonground.github.io/saturday) (rooms 310 and 210) \
 6pm: Closing plenary (room 310) \
-8pm: Post social event! (TBD)
+7:30pm: Post social event! (the Atlas Bar)
 
 
 

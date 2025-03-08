@@ -41,12 +41,12 @@ draft: false
 - **Omoleye Adeyemi**	*The Shade Room—A Digital Third Space for Black Individuals* (Univeristy of Maryland, College Park)
  &nbsp;
 
-### Panel 4: Heremeneutics ###
+### Panel 4: Hermeneutics ###
 #### 11:30am FH 210 ####
 
 - **Christopher Michael Hansen**  *Conjuring Seth: On Posthuman Creative Practice in The Seth Material*  (University of Buffalo)
 - **Ahmed Tahsin Shams** *Thijs Biersteker’s Screen Eco-Art as Green Publishing Prototype in the Anthropocene*  (Indiana University, Bloomington)
-- **SaeHim Park** *Immersivce Biohazards and VR Proximity* (Xavier University of Louisiana)
+- **SaeHim Park** *Immersive Biohazards and VR Proximity* (Xavier University of Louisiana)
 - **Sohrab Mirab**  *History, Allegory, and Poetics of Dissent: Pre-Revolutionary Iranian Avant-grade Animations of CIDCA*  (Indiana University, Bloomington)
  &nbsp;
 
@@ -82,7 +82,7 @@ draft: false
 ### Panel 8: Interrogating Power Narratives ###
 #### 4:30pm FH 210 ####
 
-- **Cole Nelson and Jamie Theophilos**	*Countering Repression and narrative architects in the Stop Cop City Movement* (Indiana University, Bloomington)
-- **Jeff Moscaritolo** *The Cooley Report, Orientalist Knowledge-Making, and Dunn Meadow* (Indiana University, Bloomington)
 - **Bryce Greene**	*Revisiting Media Imperialism: The Enduring Relevance Of The Propaganda Model* (Indiana University, Bloomington)
 - **Caro Reed-Ferrara**	*And You’re Going to Kill Him for Me”: Neoliberal Feminism and Hegemony in American National Security Media* (Indiana University, Bloomington)
+- **Jeff Moscaritolo** *The Cooley Report, Orientalist Knowledge-Making, and Dunn Meadow* (Indiana University, Bloomington)
+- **Cole Nelson and Jamie Theophilos**	*Countering Repression and narrative architects in the Stop Cop City Movement* (Indiana University, Bloomington)
